@@ -1,2 +1,2 @@
 # ionicDemoApp
-Demo Application developed using ionic
+Demo Application developed using ionic.
